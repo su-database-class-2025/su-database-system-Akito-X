@@ -1,1 +1,1 @@
-SELECT count(language_id) FROM language
+SELECT count(*) FROM language;
